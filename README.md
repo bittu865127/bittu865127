@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bittu865127&label=Profile%20views&color=0e75b6&style=flat" alt="bittu865127" /> </p>
 
-- 🔭 I’m currently working on **Tata cinsultancy services.**
+- 🔭 I’m currently working on **Tata consultancy services.**
 
 - 🌱 I’m currently learning **Azure DevOps**
 
