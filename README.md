@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Azure DevOps**
 
-- /*👯 Collaborate with me on upwork for consultation and development related work. [upwork](https://www.upwork.com/freelancers/~01e10362efd2667d1a)*/
-
 - 👨‍💻 All of my projects are available at [https://github.com/bittu865127](https://github.com/bittu865127)
 
 - 📫 How to reach me **bittu841208@gmail.com**
